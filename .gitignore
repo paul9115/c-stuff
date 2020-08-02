@@ -1,0 +1,6 @@
+# Ignore all 
+* 
+
+# Include source files 
+!*.c
+!.gitignore
